@@ -1,7 +1,7 @@
 # EmployeeDirectory
 
 ## Description
-An employee directory that allows the user to view the entire employee directory and sort the employee names in descending or ascending order
+An employee directory that allows the user to view the entire employee directory,sort the employee names in descending or ascending order and search for employees by typing their name in the search box.
 
 # URL of the deployed app in Heroku
 https://ancient-coast-86756.herokuapp.com/
